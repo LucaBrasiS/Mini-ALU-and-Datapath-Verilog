@@ -4,7 +4,7 @@ This repository contains a modular collection of synthesizable Verilog HDL desig
 ![vivado_sim](vivado_sim.png)
 ---
 
-## 📁 Modules Overview
+## Modules Overview
 
 ### 1. Arithmetic & Datapath Units
 * **`adder4.v`**: 4-bit Ripple-Carry Adder featuring full carry-propagation (`Cin` and `Cout`) evaluated with self-checking test vectors.
@@ -21,7 +21,7 @@ This repository contains a modular collection of synthesizable Verilog HDL desig
 
 ---
 
-## 🧪 Verification & Simulation (`ALL_TB.v`)
+## Verification & Simulation (`ALL_TB.v`)
 
 All designs are consolidated and simulated within a comprehensive testbench architecture:
 
@@ -31,7 +31,7 @@ All designs are consolidated and simulated within a comprehensive testbench arch
 
 ---
 
-## 🛠️ Tools & Environment
+## Tools & Environment
 * **Language:** Verilog HDL (IEEE 1364-2001)
 * **EDA Tool:** AMD Xilinx Vivado ML Edition
 * **Timescale:** `1ns / 1ps`
