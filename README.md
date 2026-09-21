@@ -1,7 +1,7 @@
 # Multi-Functional RTL Digital Design & Mini-ALU Library
 
 This repository contains a modular collection of synthesizable Verilog HDL designs ranging from sequential control units to combinational arithmetic datapath modules, fully verified via AMD Xilinx Vivado.
-
+![vivado_sim](vivado_sim.png)
 ---
 
 ## 📁 Modules Overview
